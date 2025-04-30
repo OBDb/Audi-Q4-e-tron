@@ -1,4 +1,7 @@
 { "commands": [
-
+{ "hdr": "FC00", "dbg": true, "cmd": {"22": "028C"}, "freq": 0.25,
+  "signals": [
+    {"id": "Q4ETRON_SOC", "path": "Battery", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 250, "unit": "percent" }, "name": "State of charge", "suggestedMetric": "stateOfCharge"}
+  ]}
 ]
 }
