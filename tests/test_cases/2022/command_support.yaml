@@ -8,6 +8,7 @@ supported_commands_by_ecu:
   - 0105:ECT
   - 010C:RPM
   - 010D:VSS
+  - 011C:OBDSUP
 unsupported_commands_by_ecu:
   70B:
   - 70B.2218A0
@@ -129,3 +130,5 @@ unsupported_commands_by_ecu:
   - 7E5.7ED.221E3D
   - 7E5.7ED.2251E0
   - 7E5.7ED.225200
+  FC00:
+  - FC00.22028C
