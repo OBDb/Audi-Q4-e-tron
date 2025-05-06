@@ -130,5 +130,11 @@ unsupported_commands_by_ecu:
   - 7E5.7ED.221E3D
   - 7E5.7ED.2251E0
   - 7E5.7ED.225200
+  DB33:
+  - DB33.0101
+  - DB33.0104
+  - DB33.0105
+  - DB33.010C
+  - DB33.010D
   FC00:
   - FC00.22028C
