@@ -137,4 +137,4 @@ unsupported_commands_by_ecu:
   - DB33.010C
   - DB33.010D
   FC00:
-  - FC00.22028C
+  - FC00.22028C:Q4ETRON_SOC
