@@ -1,6 +1,6 @@
 model_year: 2022
 supported_commands_by_ecu:
-  DB33:
+  "DB33":
   - 0101:ACRF_RDY,ACRF_SUP,AIR_RDY,AIR_SUP,CAT_RDY,CAT_SUP,CCM_RDY,CCM_SUP,CIM_SUP,DTC_CNT,EGR_RDY,EGR_SUP,EVAP_RDY,EVAP_SUP,FUEL_RDY,FUEL_SUP,HCAT_RDY,HCAT_SUP,HTR_RDY,HTR_SUP,MIL,MIS_RDY,MIS_SUP,O2S_RDY,O2S_SUP
   - 0104:LOAD_PCT
   - 0105:ECT
@@ -13,18 +13,18 @@ supported_commands_by_ecu:
   - DB33.010C:RPM
   - DB33.010D:VSS
 unsupported_commands_by_ecu:
-  70B:
+  "70B":
   - 70B.2218A0
   - 70B.2218A1
   - 70B.2218A2
   - 70B.2218A3
-  710:
+  "710":
   - 710.222A0A
   - 710.77A.222AB2
   - 710.77A.222AB6
   - 710.77A.222AB7
   - 710.77A.222AB8
-  713:
+  "713":
   - '713.221800'
   - '713.221801'
   - '713.221802'
@@ -34,7 +34,7 @@ unsupported_commands_by_ecu:
   - 713.222B1D
   - 713.222B1E
   - 713.77D.222B29
-  714:
+  "714":
   - 714.22202F
   - '714.222203'
   - '714.222294'
@@ -44,17 +44,17 @@ unsupported_commands_by_ecu:
   - 714.77E.220530
   - 714.77E.221014
   - 714.77E.2222E0
-  715:
+  "715":
   - '715.222353'
   - '715.222354'
   - '715.222355'
   - '715.222356'
   - '715.222357'
-  744:
+  "744":
   - 744.7AE.224965
-  746:
+  "746":
   - 746.2227C4
-  7E0:
+  "7E0":
   - 7E0.012F:FLI
   - 7E0.2210E0
   - 7E0.221160
@@ -76,7 +76,7 @@ unsupported_commands_by_ecu:
   - 7E0.7E8.22F430
   - 7E0.7E8.22F431
   - 7E0.7E8.22F442
-  7E1:
+  "7E1":
   - 7E1.22101A
   - 7E1.222B1B
   - 7E1.222B1C
@@ -93,7 +93,7 @@ unsupported_commands_by_ecu:
   - 7E1.7E9.221003
   - 7E1.7E9.221004
   - 7E1.7E9.22210F
-  7E5:
+  "7E5":
   - 7E5.7ED.22028C
   - 7E5.7ED.221801
   - 7E5.7ED.221850
@@ -133,5 +133,5 @@ unsupported_commands_by_ecu:
   - 7E5.7ED.221E3D
   - 7E5.7ED.2251E0
   - 7E5.7ED.225200
-  FC00:
+  "FC00":
   - FC00.22028C:Q4ETRON_SOC
