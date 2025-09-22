@@ -1,0 +1,8 @@
+command_id: FC00.22028C
+test_cases:
+- expected_values:
+    Q4ETRON_SOC: 59.2
+  response: 17FE007B0462028C94
+- expected_values:
+    Q4ETRON_SOC: 75.6
+  response: 17FE007B0462028CBD
