@@ -10,14 +10,14 @@ test_cases:
     18DAF10503414900
     18DAF10103414925
 - expected_values:
-    APP_D: 23.52941
+    APP_D: 27.45098
   response: |-
-    18DAF1030341493B
+    18DAF10303414945
     18DAF10503414900
-    18DAF1010341493C
+    18DAF10103414946
 - expected_values:
-    APP_D: 44.31373
-  response: 18DAF10303414971
+    APP_D: 74.90196
+  response: 18DAF103034149BF
 - expected_values:
     APP_D: 0
   response: 18DAF10503414900
