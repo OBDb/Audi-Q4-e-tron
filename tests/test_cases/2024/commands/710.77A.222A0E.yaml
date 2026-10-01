@@ -7,6 +7,18 @@ test_cases:
     Q4ETRON_SSB_R: 0.2
   response: 77A04622A0E01
 - expected_values:
+    Q4ETRON_SSB_R: 1
+  response: 77A04622A0E05
+- expected_values:
+    Q4ETRON_SSB_R: 26.4
+  response: 77A04622A0E84
+- expected_values:
+    Q4ETRON_SSB_R: 26.6
+  response: 77A04622A0E85
+- expected_values:
+    Q4ETRON_SSB_R: 27.8
+  response: 77A04622A0E8B
+- expected_values:
     Q4ETRON_SSB_R: 29.6
   response: 77A04622A0E94
 - expected_values:

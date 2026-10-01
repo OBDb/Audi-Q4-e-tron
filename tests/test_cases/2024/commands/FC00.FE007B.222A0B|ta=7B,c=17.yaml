@@ -1,6 +1,9 @@
 command_id: FC00.FE007B.222A0B|ta=7B,c=17
 test_cases:
 - expected_values:
+    Q4ETRON_BATTERY_T: 18.5
+  response: 17FE007B04622A0B75
+- expected_values:
     Q4ETRON_BATTERY_T: 19
   response: 17FE007B04622A0B76
 - expected_values:
