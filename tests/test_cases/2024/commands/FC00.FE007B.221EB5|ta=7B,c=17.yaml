@@ -1,29 +1,8 @@
 command_id: FC00.FE007B.221EB5|ta=7B,c=17
 test_cases:
 - expected_values:
-    Q4ETRON_HVBAT_MOD_T_8: 19
-  response: 17FE007B05621EB501D8
-- expected_values:
-    Q4ETRON_HVBAT_MOD_T_8: 19.125
-  response: 17FE007B05621EB501D9
-- expected_values:
-    Q4ETRON_HVBAT_MOD_T_8: 19.25
-  response: 17FE007B05621EB501DA
-- expected_values:
-    Q4ETRON_HVBAT_MOD_T_8: 19.375
-  response: 17FE007B05621EB501DB
-- expected_values:
-    Q4ETRON_HVBAT_MOD_T_8: 19.5
-  response: 17FE007B05621EB501DC
-- expected_values:
-    Q4ETRON_HVBAT_MOD_T_8: 19.625
-  response: 17FE007B05621EB501DD
-- expected_values:
-    Q4ETRON_HVBAT_MOD_T_8: 19.75
-  response: 17FE007B05621EB501DE
-- expected_values:
-    Q4ETRON_HVBAT_MOD_T_8: 19.875
-  response: 17FE007B05621EB501DF
+    Q4ETRON_HVBAT_MOD_T_8: 18.75
+  response: 17FE007B05621EB501D6
 - expected_values:
     Q4ETRON_HVBAT_MOD_T_8: 20
   response: 17FE007B05621EB501E0

@@ -4,5 +4,8 @@ test_cases:
     Q4ETRON_HVBAT_CELL_V_070: 3.53
   response: 17FE007B05621E8509E2
 - expected_values:
+    Q4ETRON_HVBAT_CELL_V_070: 3.553
+  response: 17FE007B05621E8509F9
+- expected_values:
     Q4ETRON_HVBAT_CELL_V_070: 3.569
   response: 17FE007B05621E850A09

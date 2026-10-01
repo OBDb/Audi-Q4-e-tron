@@ -7,5 +7,14 @@ test_cases:
     Q4ETRON_A_C_CMPR_SPEED: 800
   response: 7B00462260308
 - expected_values:
+    Q4ETRON_A_C_CMPR_SPEED: 900
+  response: 7B00462260309
+- expected_values:
+    Q4ETRON_A_C_CMPR_SPEED: 1000
+  response: 7B0046226030A
+- expected_values:
     Q4ETRON_A_C_CMPR_SPEED: 1300
   response: 7B0046226030D
+- expected_values:
+    Q4ETRON_A_C_CMPR_SPEED: 1400
+  response: 7B0046226030E

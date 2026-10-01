@@ -7,5 +7,5 @@ test_cases:
     Q4ETRON_ACCEL: -0.257
   response: 17FE007605624539FEFF
 - expected_values:
-    Q4ETRON_ACCEL: -0.217
-  response: 17FE007605624539FF27
+    Q4ETRON_ACCEL: -0.248
+  response: 17FE007605624539FF08

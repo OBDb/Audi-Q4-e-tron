@@ -4,5 +4,5 @@ test_cases:
     Q4ETRON_HVAUX_PWR: 0.2
   response: 17FE0076056203640002
 - expected_values:
-    Q4ETRON_HVAUX_PWR: 2.3
-  response: 17FE0076056203640017
+    Q4ETRON_HVAUX_PWR: 2.6
+  response: 17FE007605620364001A

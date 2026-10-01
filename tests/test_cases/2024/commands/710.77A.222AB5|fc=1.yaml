@@ -1,10 +1,15 @@
 command_id: 710.77A.222AB5|fc=1
 test_cases:
 - expected_values:
-    Q4ETRON_RANGE_EST_CAN: 159
+    Q4ETRON_RANGE_EST_CAN: 140
   response: |-
-    77A100D622AB5009F00
-    77A2100009F00000000
+    77A100D622AB5008C00
+    77A2100008C00000000
+- expected_values:
+    Q4ETRON_RANGE_EST_CAN: 143
+  response: |-
+    77A100D622AB5008F00
+    77A2100008F00000000
 - expected_values:
     Q4ETRON_RANGE_EST_CAN: 160
   response: |-

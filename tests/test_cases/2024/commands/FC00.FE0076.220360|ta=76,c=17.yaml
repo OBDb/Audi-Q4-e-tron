@@ -10,5 +10,5 @@ test_cases:
     Q4ETRON_HVAUX_I: 2.56
   response: 17FE0076056203600100
 - expected_values:
-    Q4ETRON_HVAUX_I: 5.31
-  response: 17FE0076056203600213
+    Q4ETRON_HVAUX_I: 8.16
+  response: 17FE0076056203600330
