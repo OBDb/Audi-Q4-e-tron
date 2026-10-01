@@ -1,0 +1,11 @@
+command_id: FC00.FE0076.22276D|ta=76,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_COOLANT_CIRC_PUMP_DUTY: 27.92
+  response: 17FE00760562276D0AE8
+- expected_values:
+    Q4ETRON_COOLANT_CIRC_PUMP_DUTY: 38.48
+  response: 17FE00760562276D0F08
+- expected_values:
+    Q4ETRON_COOLANT_CIRC_PUMP_DUTY: 63.13
+  response: 17FE00760562276D18A9

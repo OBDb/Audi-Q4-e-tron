@@ -1,0 +1,14 @@
+command_id: 746.7B0.222613|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_HVAC_IAT: 16
+  response: 7B00562261300A0
+- expected_values:
+    Q4ETRON_HVAC_IAT: 62.2
+  response: 7B005622613026E
+- expected_values:
+    Q4ETRON_HVAC_IAT: 3058
+  response: 7B0056226137774
+- expected_values:
+    Q4ETRON_HVAC_IAT: -14.6
+  response: 7B005622613FF6E
