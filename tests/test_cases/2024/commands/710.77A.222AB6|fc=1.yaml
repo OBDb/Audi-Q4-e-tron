@@ -1,15 +1,20 @@
 command_id: 710.77A.222AB6|fc=1
 test_cases:
 - expected_values:
+    Q4ETRON_RANGE: 141
+  response: |-
+    77A100A622AB6008D00
+    77A218D000000AAAAAA
+- expected_values:
+    Q4ETRON_RANGE: 143
+  response: |-
+    77A100A622AB6008F00
+    77A218F000000AAAAAA
+- expected_values:
     Q4ETRON_RANGE: 160
   response: |-
     77A100A622AB600A000
     77A21A0000000AAAAAA
-- expected_values:
-    Q4ETRON_RANGE: 175
-  response: |-
-    77A100A622AB600AF00
-    77A21AF000000AAAAAA
 - expected_values:
     Q4ETRON_RANGE: 241
   response: |-
