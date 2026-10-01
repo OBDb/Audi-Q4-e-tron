@@ -1,0 +1,11 @@
+command_id: 746.7B0.2226ED|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_AIR_POLUTION: 0
+  response: 7B0046226ED00
+- expected_values:
+    Q4ETRON_AIR_POLUTION: 1
+  response: 7B0046226ED0A
+- expected_values:
+    Q4ETRON_AIR_POLUTION: 1.4
+  response: 7B0046226ED0E
