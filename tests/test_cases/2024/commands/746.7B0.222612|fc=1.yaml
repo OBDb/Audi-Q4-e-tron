@@ -1,6 +1,9 @@
 command_id: 746.7B0.222612|fc=1
 test_cases:
 - expected_values:
+    Q4ETRON_HVAC_EVAP_T: 48
+  response: 7B00562261201E0
+- expected_values:
     Q4ETRON_HVAC_EVAP_T: 49
   response: 7B00562261201EA
 - expected_values:
@@ -12,6 +15,12 @@ test_cases:
 - expected_values:
     Q4ETRON_HVAC_EVAP_T: 52
   response: 7B0056226120208
+- expected_values:
+    Q4ETRON_HVAC_EVAP_T: 53
+  response: 7B0056226120212
+- expected_values:
+    Q4ETRON_HVAC_EVAP_T: 55
+  response: 7B0056226120226
 - expected_values:
     Q4ETRON_HVAC_EVAP_T: 58
   response: 7B0056226120244

@@ -4,5 +4,5 @@ test_cases:
     Q4ETRON_FRONT_RIGHT_DEFL_T: 39.294
   response: 7B00462260D76
 - expected_values:
-    Q4ETRON_FRONT_RIGHT_DEFL_T: 43.29
-  response: 7B00462260D82
+    Q4ETRON_FRONT_RIGHT_DEFL_T: 47.952
+  response: 7B00462260D90

@@ -4,11 +4,11 @@ test_cases:
     Q4ETRON_HVAC_IAT: 16
   response: 7B00562261300A0
 - expected_values:
-    Q4ETRON_HVAC_IAT: 62.2
-  response: 7B005622613026E
+    Q4ETRON_HVAC_IAT: 2048
+  response: 7B0056226135000
 - expected_values:
-    Q4ETRON_HVAC_IAT: 3058
-  response: 7B0056226137774
+    Q4ETRON_HVAC_IAT: -25.6
+  response: 7B005622613FF00
 - expected_values:
-    Q4ETRON_HVAC_IAT: -14.6
-  response: 7B005622613FF6E
+    Q4ETRON_HVAC_IAT: -0.2
+  response: 7B005622613FFFE
