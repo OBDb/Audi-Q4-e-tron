@@ -1,11 +1,14 @@
 command_id: FC00.FE0076.223DEF|ta=76,c=17
 test_cases:
 - expected_values:
-    Q4ETRON_SOC_FC00: 48
-  response: 17FE007605623DEF12C0
+    Q4ETRON_SOC_FC00: 39.5
+  response: 17FE007605623DEF0F6E
 - expected_values:
-    Q4ETRON_SOC_FC00: 48.5
-  response: 17FE007605623DEF12F2
+    Q4ETRON_SOC_FC00: 41
+  response: 17FE007605623DEF1004
+- expected_values:
+    Q4ETRON_SOC_FC00: 43.5
+  response: 17FE007605623DEF10FE
 - expected_values:
     Q4ETRON_SOC_FC00: 54
   response: 17FE007605623DEF1518

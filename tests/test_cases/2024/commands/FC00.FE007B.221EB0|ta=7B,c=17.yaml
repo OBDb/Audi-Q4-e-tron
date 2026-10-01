@@ -1,6 +1,9 @@
 command_id: FC00.FE007B.221EB0|ta=7B,c=17
 test_cases:
 - expected_values:
+    Q4ETRON_HVBAT_MOD_T_3: 19.625
+  response: 17FE007B05621EB001DD
+- expected_values:
     Q4ETRON_HVBAT_MOD_T_3: 19.75
   response: 17FE007B05621EB001DE
 - expected_values:

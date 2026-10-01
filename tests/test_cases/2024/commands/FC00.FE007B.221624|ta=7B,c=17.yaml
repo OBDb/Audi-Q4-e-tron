@@ -1,6 +1,9 @@
 command_id: FC00.FE007B.221624|ta=7B,c=17
 test_cases:
 - expected_values:
+    Q4ETRON_HVBAT_PTC_T_2: 20
+  response: 17FE007B0462162446
+- expected_values:
     Q4ETRON_HVBAT_PTC_T_2: 21
   response: 17FE007B0462162447
 - expected_values:
