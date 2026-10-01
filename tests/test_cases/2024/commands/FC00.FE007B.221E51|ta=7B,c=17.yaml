@@ -1,0 +1,8 @@
+command_id: FC00.FE007B.221E51|ta=7B,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_HVBAT_CELL_V_018: 3.621
+  response: 17FE007B05621E510A3D
+- expected_values:
+    Q4ETRON_HVBAT_CELL_V_018: 3.803
+  response: 17FE007B05621E510AF3

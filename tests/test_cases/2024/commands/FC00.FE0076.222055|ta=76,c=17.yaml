@@ -1,0 +1,11 @@
+command_id: FC00.FE0076.222055|ta=76,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_RADIATOR_FAN_DUTY: 0
+  response: 17FE0076056220550000
+- expected_values:
+    Q4ETRON_RADIATOR_FAN_DUTY: 28.13
+  response: 17FE0076056220550AFD
+- expected_values:
+    Q4ETRON_RADIATOR_FAN_DUTY: 28.52
+  response: 17FE0076056220550B24

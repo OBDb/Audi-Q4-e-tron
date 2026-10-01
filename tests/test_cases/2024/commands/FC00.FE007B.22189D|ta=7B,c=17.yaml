@@ -1,0 +1,14 @@
+command_id: FC00.FE007B.22189D|ta=7B,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_HVBAT_T_IN: 18
+    Q4ETRON_HVBAT_T_OUT: 18
+  response: 17FE007B0762189D04800480
+- expected_values:
+    Q4ETRON_HVBAT_T_IN: 19
+    Q4ETRON_HVBAT_T_OUT: 18
+  response: 17FE007B0762189D048004C0
+- expected_values:
+    Q4ETRON_HVBAT_T_IN: 19
+    Q4ETRON_HVBAT_T_OUT: 19
+  response: 17FE007B0762189D04C004C0

@@ -1,0 +1,8 @@
+command_id: FC00.FE0076.22295A|ta=76,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_ENG_ODO: 67226
+  response: 17FE00760662295A01069A
+- expected_values:
+    Q4ETRON_ENG_ODO: 67248
+  response: 17FE00760662295A0106B0

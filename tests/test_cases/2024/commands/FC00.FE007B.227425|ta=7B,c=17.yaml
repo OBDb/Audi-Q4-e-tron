@@ -1,0 +1,17 @@
+command_id: FC00.FE007B.227425|ta=7B,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_HVBAT_MOD_T_17: 19.75
+  response: 17FE007B0562742501DE
+- expected_values:
+    Q4ETRON_HVBAT_MOD_T_17: 19.875
+  response: 17FE007B0562742501DF
+- expected_values:
+    Q4ETRON_HVBAT_MOD_T_17: 20
+  response: 17FE007B0562742501E0
+- expected_values:
+    Q4ETRON_HVBAT_MOD_T_17: 20.125
+  response: 17FE007B0562742501E1
+- expected_values:
+    Q4ETRON_HVBAT_MOD_T_17: 20.25
+  response: 17FE007B0562742501E2

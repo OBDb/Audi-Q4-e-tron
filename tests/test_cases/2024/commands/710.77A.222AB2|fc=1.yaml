@@ -1,0 +1,5 @@
+command_id: 710.77A.222AB2|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_HVBAT_CAP: 74.25
+  response: 77A07622AB205CD0400

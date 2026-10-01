@@ -1,0 +1,11 @@
+command_id: FC00.FE007B.221E36|ta=7B,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_HVBAT_V_BEFORE: 346.31226
+  response: 17FE007B05621E362B4A
+- expected_values:
+    Q4ETRON_HVBAT_V_BEFORE: 351.96851
+  response: 17FE007B05621E362BFF
+- expected_values:
+    Q4ETRON_HVBAT_V_BEFORE: 360.406
+  response: 17FE007B05621E362D0D
