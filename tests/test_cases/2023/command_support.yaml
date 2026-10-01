@@ -26,7 +26,7 @@ unsupported_commands_by_ecu:
   "715":
   - '715.222353'
   "746":
-  - 746.2227C4
+  - 746.7B0.2227C4|fc=1:Q4ETRON_HVAC_INSIDE_HUM,Q4ETRON_WNDSHLD_TEMP
   "7E0":
   - 7E0.012F:FLI
   - 7E0.2210E0
