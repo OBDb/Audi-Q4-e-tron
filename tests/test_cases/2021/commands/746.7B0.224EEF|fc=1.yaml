@@ -1,0 +1,9 @@
+command_id: 746.7B0.224EEF|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_AC_REFRIG_P_SENS1: 0.9328
+    Q4ETRON_AC_REFRIG_T_SENS1: 15.7
+    Q4ETRON_AC_REFRIG_T_SENS1_INT: 18.1
+  response: |-
+    7B0100D624EEF006A02
+    7B0212D024500000000
