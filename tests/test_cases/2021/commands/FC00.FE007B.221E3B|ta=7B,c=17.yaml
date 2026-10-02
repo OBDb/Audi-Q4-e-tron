@@ -1,0 +1,8 @@
+command_id: FC00.FE007B.221E3B|ta=7B,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_DC_BATTERY_V: 385.25
+  response: 17FE007B05621E3B0605
+- expected_values:
+    Q4ETRON_DC_BATTERY_V: 386.25
+  response: 17FE007B05621E3B0609

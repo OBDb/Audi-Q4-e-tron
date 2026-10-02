@@ -1,0 +1,6 @@
+command_id: FC00.FE007B.221E0F|ta=7B,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_HVBAT_T_MIN: 18.625
+    Q4ETRON_HVBAT_T_MIN_ID: 20
+  response: 17FE007B07621E0F04A80014
