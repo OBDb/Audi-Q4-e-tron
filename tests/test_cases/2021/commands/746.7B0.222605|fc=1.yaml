@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q4ETRON_REFRIG_P: 5.2
   response: 7B0046226051A
+- expected_values:
+    Q4ETRON_REFRIG_P: 5.4
+  response: 7B0046226051B

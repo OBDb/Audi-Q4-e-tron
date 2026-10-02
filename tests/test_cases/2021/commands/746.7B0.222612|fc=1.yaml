@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q4ETRON_HVAC_EVAP_T: 56
   response: 7B0056226120230
+- expected_values:
+    Q4ETRON_HVAC_EVAP_T: 57
+  response: 7B005622612023A
