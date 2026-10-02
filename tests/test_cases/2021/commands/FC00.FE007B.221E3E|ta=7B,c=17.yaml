@@ -1,0 +1,11 @@
+command_id: FC00.FE007B.221E3E|ta=7B,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_HVBAT_I_DC_2: -0.47
+  response: 17FE007B07621E3E000249C1
+- expected_values:
+    Q4ETRON_HVBAT_I_DC_2: 24.97
+  response: 17FE007B07621E3E000253B1
+- expected_values:
+    Q4ETRON_HVBAT_I_DC_2: 58.74
+  response: 17FE007B07621E3E000260E2
