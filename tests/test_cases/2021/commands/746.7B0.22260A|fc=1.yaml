@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q4ETRON_AAT_CABIN: 14
   response: 7B00462260A80
+- expected_values:
+    Q4ETRON_AAT_CABIN: 15
+  response: 7B00462260A82
