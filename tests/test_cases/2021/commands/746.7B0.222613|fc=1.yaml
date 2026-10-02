@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q4ETRON_HVAC_IAT: 28.9
   response: 7B0056226130121
+- expected_values:
+    Q4ETRON_HVAC_IAT: 29.7
+  response: 7B0056226130129

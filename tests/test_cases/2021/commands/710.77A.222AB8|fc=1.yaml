@@ -1,6 +1,11 @@
 command_id: 710.77A.222AB8|fc=1
 test_cases:
 - expected_values:
+    Q4ETRON_HVBAT_KWH: 36.725
+  response: |-
+    77A100B622AB8000005
+    77A21BD00000000AAAA
+- expected_values:
     Q4ETRON_HVBAT_KWH: 38.1
   response: |-
     77A100B622AB8000005
