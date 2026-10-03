@@ -1,0 +1,9 @@
+command_id: 710.77A.222A53|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_DCDC_I: 26
+    Q4ETRON_DCDC_I_RSV: 207
+    Q4ETRON_DCDC_V_LOW: 13.9
+  response: |-
+    77A1008622A538B0219
+    77A2102CEAAAAAAAAAA
