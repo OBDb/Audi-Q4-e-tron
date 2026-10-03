@@ -1,0 +1,5 @@
+command_id: 744.7AE.221DA7|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_OBC_HIGH_V_OUTPUT: 368.1
+  response: 7AE05621DA70E61
