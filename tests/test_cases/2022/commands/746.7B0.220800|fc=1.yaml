@@ -1,0 +1,8 @@
+command_id: 746.7B0.220800|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_AC_COMPRESSOR_PWR_ACT: 552
+  response: |-
+    7B0100E620800510D80
+    7B0210D800228035C00
+    7B02268AAAAAAAAAAAA
