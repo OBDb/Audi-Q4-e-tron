@@ -1,0 +1,5 @@
+command_id: 746.7B0.22F449|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_APP_D: 54.5098
+  response: 7B00462F4498B

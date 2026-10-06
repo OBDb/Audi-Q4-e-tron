@@ -1,0 +1,7 @@
+command_id: 710.77A.222AB8|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_HVBAT_KWH: 47.775
+  response: |-
+    77A100B622AB8000007
+    77A217700000000AAAA
