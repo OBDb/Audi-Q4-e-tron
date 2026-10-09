@@ -1,0 +1,5 @@
+command_id: 746.7B0.2242DB|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_CO2_CONTENT_INTERIOR: 500
+  response: 7B0056242DB0005
