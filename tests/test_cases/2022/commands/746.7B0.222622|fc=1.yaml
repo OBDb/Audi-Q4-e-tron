@@ -1,0 +1,5 @@
+command_id: 746.7B0.222622|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_FRONT_LEFT_T_FLAP_ACT: 32
+  response: 7B006622622006040
