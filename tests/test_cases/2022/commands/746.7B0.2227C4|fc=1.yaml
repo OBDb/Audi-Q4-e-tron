@@ -1,0 +1,8 @@
+command_id: 746.7B0.2227C4|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_HVAC_INSIDE_HUM: 39.5
+    Q4ETRON_WNDSHLD_TEMP: 33.2
+  response: |-
+    7B010086227C47DE8E2
+    7B0210C4FAAAAAAAAAA
