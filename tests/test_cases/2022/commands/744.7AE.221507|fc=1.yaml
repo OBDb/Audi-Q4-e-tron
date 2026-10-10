@@ -1,0 +1,9 @@
+command_id: 744.7AE.221507|fc=1
+test_cases:
+- expected_values:
+    Q4ETRON_CHRGR_RAIL1_E: 4868.8
+    Q4ETRON_CHRGR_RAIL2_E: 4848.8
+    Q4ETRON_CHRGR_RAIL3_E: 4842.6
+  response: |-
+    7AE100C62150700BE30
+    7AE2100BD6800BD2ACC
