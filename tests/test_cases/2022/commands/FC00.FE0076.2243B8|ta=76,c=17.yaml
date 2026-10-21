@@ -1,0 +1,8 @@
+command_id: FC00.FE0076.2243B8|ta=76,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_DCDC_T_COOL: 17.2
+  response: 17FE0076056243B800AC
+- expected_values:
+    Q4ETRON_DCDC_T_COOL: 23.7
+  response: 17FE0076056243B800ED

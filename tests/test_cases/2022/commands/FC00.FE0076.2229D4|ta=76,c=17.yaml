@@ -1,0 +1,11 @@
+command_id: FC00.FE0076.2229D4|ta=76,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_MOTOR_TRQ_REQ: 0
+  response: 17FE0076056229D40000
+- expected_values:
+    Q4ETRON_MOTOR_TRQ_REQ: 51
+  response: 17FE0076056229D401FE
+- expected_values:
+    Q4ETRON_MOTOR_TRQ_REQ: 192.8
+  response: 17FE0076056229D40788

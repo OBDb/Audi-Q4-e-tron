@@ -1,0 +1,8 @@
+command_id: FC00.FE00B9.22465B|ta=B9,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_DCDC_I_ALT: 15.625
+  response: 17FE00B90562465B00FA
+- expected_values:
+    Q4ETRON_DCDC_I_ALT: 32
+  response: 17FE00B90562465B0200
