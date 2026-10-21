@@ -1,8 +1,8 @@
 command_id: FC00.FE00B9.22465D|ta=B9,c=17
 test_cases:
 - expected_values:
-    Q4ETRON_DC_DC_V: 14.875
-  response: 17FE00B90562465D1DC0
+    Q4ETRON_DC_DC_V: 14.83789
+  response: 17FE00B90562465D1DAD
 - expected_values:
     Q4ETRON_DC_DC_V: 14.98633
   response: 17FE00B90562465D1DF9

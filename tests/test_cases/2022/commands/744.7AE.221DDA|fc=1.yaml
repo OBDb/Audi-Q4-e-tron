@@ -5,3 +5,8 @@ test_cases:
   response: |-
     7AE1008621DDA460352
     7AE2103E5CCCCCCCCCC
+- expected_values:
+    Q4ETRON_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA460352
+    7AE2103E6CCCCCCCCCC
