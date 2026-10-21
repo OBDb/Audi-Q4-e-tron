@@ -1,0 +1,11 @@
+command_id: FC00.FE0076.22035E|ta=76,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_HVBAT_I_ENG: 0.7
+  response: 17FE00760562035E0007
+- expected_values:
+    Q4ETRON_HVBAT_I_ENG: -22.9
+  response: 17FE00760562035EFF1B
+- expected_values:
+    Q4ETRON_HVBAT_I_ENG: -0.8
+  response: 17FE00760562035EFFF8

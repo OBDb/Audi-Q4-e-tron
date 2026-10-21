@@ -1,0 +1,11 @@
+command_id: FC00.FE007B.221E1B|ta=7B,c=17
+test_cases:
+- expected_values:
+    Q4ETRON_HVBAT_I_LIM_CHG: 304.8
+  response: 17FE007B05621E1B05F4
+- expected_values:
+    Q4ETRON_HVBAT_I_LIM_CHG: 307
+  response: 17FE007B05621E1B05FF
+- expected_values:
+    Q4ETRON_HVBAT_I_LIM_CHG: 308
+  response: 17FE007B05621E1B0604
