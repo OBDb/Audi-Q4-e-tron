@@ -1,6 +1,12 @@
 command_id: 710.77A.222AB4|fc=1
 test_cases:
 - expected_values:
+    Q4ETRON_HVBAT_CSMP_AVG_INT: 55
+    Q4ETRON_RANGE_RESERVE_EST: 243
+  response: |-
+    77A100D622AB4000000
+    77A21F3000000000037
+- expected_values:
     Q4ETRON_HVBAT_CSMP_AVG_INT: 44
     Q4ETRON_RANGE_RESERVE_EST: 276
   response: |-

@@ -4,5 +4,8 @@ test_cases:
     Q4ETRON_ACCEL: 0
   response: 17FE0076056245390000
 - expected_values:
-    Q4ETRON_ACCEL: -0.022
-  response: 17FE007605624539FFEA
+    Q4ETRON_ACCEL: -0.779
+  response: 17FE007605624539FCF5
+- expected_values:
+    Q4ETRON_ACCEL: -0.143
+  response: 17FE007605624539FF71

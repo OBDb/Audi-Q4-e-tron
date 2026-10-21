@@ -7,3 +7,10 @@ test_cases:
   response: |-
     77A1008622A538B0219
     77A2102CEAAAAAAAAAA
+- expected_values:
+    Q4ETRON_DCDC_I: 21
+    Q4ETRON_DCDC_I_RSV: 225
+    Q4ETRON_DCDC_V_LOW: 14.8
+  response: |-
+    77A1008622A53940214
+    77A2102E0AAAAAAAAAA

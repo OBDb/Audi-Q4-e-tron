@@ -4,23 +4,5 @@ test_cases:
     Q4ETRON_ENG_ODO: 59332
   response: 17FE00760662295A00E7C4
 - expected_values:
-    Q4ETRON_ENG_ODO: 59333
-  response: 17FE00760662295A00E7C5
-- expected_values:
-    Q4ETRON_ENG_ODO: 59334
-  response: 17FE00760662295A00E7C6
-- expected_values:
-    Q4ETRON_ENG_ODO: 59335
-  response: 17FE00760662295A00E7C7
-- expected_values:
-    Q4ETRON_ENG_ODO: 59336
-  response: 17FE00760662295A00E7C8
-- expected_values:
-    Q4ETRON_ENG_ODO: 59337
-  response: 17FE00760662295A00E7C9
-- expected_values:
-    Q4ETRON_ENG_ODO: 59338
-  response: 17FE00760662295A00E7CA
-- expected_values:
-    Q4ETRON_ENG_ODO: 59339
-  response: 17FE00760662295A00E7CB
+    Q4ETRON_ENG_ODO: 200000
+  response: 17FE00760662295AFFFFFF
