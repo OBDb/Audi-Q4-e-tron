@@ -35,3 +35,8 @@ test_cases:
   response: |-
     77A100A622AB6010001
     77A2100000048AAAAAA
+- expected_values:
+    Q4ETRON_RANGE: 369
+  response: |-
+    77A100A622AB6017101
+    77A217100000AAAAAAA
