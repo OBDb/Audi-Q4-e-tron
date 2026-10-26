@@ -10,5 +10,5 @@ test_cases:
     Q4ETRON_SOC_FC00: 64
   response: 17FE007605623DEF1900
 - expected_values:
-    Q4ETRON_SOC_FC00: 79.5
-  response: 17FE007605623DEF1F0E
+    Q4ETRON_SOC_FC00: 95
+  response: 17FE007605623DEF251C
