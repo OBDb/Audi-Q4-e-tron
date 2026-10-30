@@ -4,5 +4,8 @@ test_cases:
     Q4ETRON_ENG_ODO: 59332
   response: 17FE00760662295A00E7C4
 - expected_values:
+    Q4ETRON_ENG_ODO: 60038
+  response: 17FE00760662295A00EA86
+- expected_values:
     Q4ETRON_ENG_ODO: 200000
   response: 17FE00760662295AFFFFFF
