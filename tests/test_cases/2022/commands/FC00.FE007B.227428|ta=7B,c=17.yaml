@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     Q4ETRON_HVBAT_MOD_T_20: 15.375
   response: 17FE007B0562742801BB
+- expected_values:
+    Q4ETRON_HVBAT_MOD_T_20: 15.625
+  response: 17FE007B0562742801BD

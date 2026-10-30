@@ -1,6 +1,9 @@
 command_id: 744.7AE.2215E2|fc=1
 test_cases:
 - expected_values:
+    Q4ETRON_CHRGR_COOLANT_T: 19
+  response: 7AE046215E23B
+- expected_values:
     Q4ETRON_CHRGR_COOLANT_T: 23
   response: 7AE046215E23F
 - expected_values:

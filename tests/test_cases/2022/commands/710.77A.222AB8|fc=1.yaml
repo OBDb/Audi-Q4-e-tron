@@ -10,3 +10,8 @@ test_cases:
   response: |-
     77A100B622AB8000007
     77A217700000000AAAA
+- expected_values:
+    Q4ETRON_HVBAT_KWH: 48.175
+  response: |-
+    77A100B622AB8000007
+    77A218700000000AAAA

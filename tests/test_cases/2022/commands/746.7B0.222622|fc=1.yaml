@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q4ETRON_FRONT_LEFT_T_FLAP_ACT: 32
   response: 7B006622622006040
+- expected_values:
+    Q4ETRON_FRONT_LEFT_T_FLAP_ACT: 53.5
+  response: 7B00662262200816B

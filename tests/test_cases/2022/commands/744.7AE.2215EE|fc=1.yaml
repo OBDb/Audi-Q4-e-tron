@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q4ETRON_CHRGR_DUR_TOTAL: 154894
   response: 7AE076215EE00025D0E
+- expected_values:
+    Q4ETRON_CHRGR_DUR_TOTAL: 156000
+  response: 7AE076215EE00026160

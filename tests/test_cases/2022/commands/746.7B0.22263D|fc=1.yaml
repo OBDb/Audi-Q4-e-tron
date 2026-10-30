@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q4ETRON_REAR_DEFL_T: 38.628
   response: 7B00462263D74
+- expected_values:
+    Q4ETRON_REAR_DEFL_T: 41.292
+  response: 7B00462263D7C
