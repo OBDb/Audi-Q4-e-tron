@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q4ETRON_OBC_HIGH_V_OUTPUT: 368.1
   response: 7AE05621DA70E61
+- expected_values:
+    Q4ETRON_OBC_HIGH_V_OUTPUT: 370.2
+  response: 7AE05621DA70E76
