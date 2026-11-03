@@ -26,11 +26,6 @@ test_cases:
     77A100A622AB600F300
     77A21F3000096AAAAAA
 - expected_values:
-    Q4ETRON_RANGE: 248
-  response: |-
-    77A100A622AB600F800
-    77A21F800001CAAAAAA
-- expected_values:
     Q4ETRON_RANGE: 255
   response: |-
     77A100A622AB600FF00
@@ -40,3 +35,8 @@ test_cases:
   response: |-
     77A100A622AB6010001
     77A2100000000AAAAAA
+- expected_values:
+    Q4ETRON_RANGE: 292
+  response: |-
+    77A100A622AB6012401
+    77A212400001EAAAAAA
