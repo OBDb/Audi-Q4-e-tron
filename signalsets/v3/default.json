@@ -203,76 +203,76 @@
   "signals": [
     {"id": "Q4ETRON_SOC", "path": "Battery", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 250, "unit": "percent" }, "name": "State of charge", "suggestedMetric": "stateOfCharge"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0335"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0335"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_MOTOR_TRQ_FRONT", "path": "Drivetrain", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "newtonMeters" }, "name": "Motor torque, front"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "033B"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "033B"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_MOTOR_TRQ_REAR", "path": "Drivetrain", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "newtonMeters" }, "name": "Motor torque, rear"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0343"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0343"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_MOTOR_TRQ_DIFF", "path": "Drivetrain", "fmt": { "len": 16, "max": 16383.5, "min": -16384, "div": 2, "sign": true, "unit": "newtonMeters" }, "name": "Motor torque difference, front to rear"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0344"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0344"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_MOTOR_TRQ_RATED_FRONT", "path": "Drivetrain", "fmt": {           "len": 16, "max": 16383.5, "min": -16384, "div": 2, "sign": true, "unit": "newtonMeters" }, "name": "Motor torque rated, front"},
     {"id": "Q4ETRON_MOTOR_TRQ_RATED_REAR",  "path": "Drivetrain", "fmt": {"bix": 16, "len": 16, "max": 16383.5, "min": -16384, "div": 2, "sign": true, "unit": "newtonMeters" }, "name": "Motor torque rated, rear"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0346"}, "freq": 0.25, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0346"}, "freq": 0.25, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_STEER_ANGLE", "path": "Control", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "degrees" }, "name": "Steering wheel angle"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "035E"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "035E"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_HVBAT_I_ENG", "path": "Battery", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "amps" }, "name": "Battery current, motor controller"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0360"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0360"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_HVAUX_I", "path": "Battery", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "amps" }, "name": "HV auxiliary current total"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0364"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "0364"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_HVAUX_PWR", "path": "Battery", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "kilowatts" }, "name": "HV auxiliary power"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "2005"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "2005"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_BRAKE_BOOSTER_P", "path": "Control", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "bars" }, "name": "Brake booster pressure"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "2055"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "2055"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_RADIATOR_FAN_DUTY", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "unit": "percent" }, "name": "Radiator fan duty"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "276D"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "276D"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_COOLANT_CIRC_PUMP_DUTY", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "unit": "percent" }, "name": "Coolant circulation pump duty"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "295A"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "295A"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_ENG_ODO", "path": "Trips", "fmt": { "len": 24, "max": 200000, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "29D4"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2023 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "29D4"}, "freq": 1, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "Q4ETRON_MOTOR_TRQ_REQ", "path": "Drivetrain", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "newtonMeters" }, "name": "Motor torque requested"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "3DEF"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "3DEF"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_SOC_FC00", "path": "Battery", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "State of charge", "suggestedMetric": "stateOfCharge"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "3DF8"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "3DF8"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_MOTOR_RPM", "path": "Drivetrain", "fmt": { "len": 16, "max": 16383.5, "min": -16384, "div": 2, "sign": true, "unit": "rpm" }, "name": "Motor speed"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "43B8"}, "freq": 5, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "43B8"}, "freq": 5, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_DCDC_T_COOL", "path": "Battery", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "celsius" }, "name": "DC-DC converter coolant temperature"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "4539"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "4539"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 32.767, "min": -32.768, "div": 1000, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Acceleration"}
   ]},
-{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "4675"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "FC00", "rax": "FE0076", "pri": "17", "tst": "76", "cmd": {"22": "4675"}, "freq": 1, "dbgfilter": { "years": [2023], "from": 2025 },
   "signals": [
     {"id": "Q4ETRON_HVBAT_V_TRAC", "path": "Battery", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "volts" }, "name": "Battery voltage, traction mode"}
   ]},
