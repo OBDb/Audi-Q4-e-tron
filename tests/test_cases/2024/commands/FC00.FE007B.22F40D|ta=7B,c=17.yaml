@@ -4,5 +4,8 @@ test_cases:
     Q4ETRON_VSS: 0
   response: 17FE007B0462F40D00
 - expected_values:
-    Q4ETRON_VSS: 255
+    Q4ETRON_VSS: 175
+  response: 17FE007B0462F40DAF
+- expected_values:
+    Q4ETRON_VSS: null
   response: 17FE007B0462F40DFF
